@@ -155,10 +155,15 @@ Specific files can be ignored (totally or for some rules only) using a
 Contact Me
 ^^^^^^^^^^
 Name: `Nho Luong`
+
 Skype: `luongutnho_skype`
+
 Github: `https://github.com/nholuongut`
+
 Linkedin: `https://www.linkedin.com/in/nholuong/`
+
 Email Address: `luongutnho@hotmail.com`
+
 PayPal.me: `https://www.paypal.com/paypalme/nholuongut`
 
 
