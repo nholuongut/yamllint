@@ -150,20 +150,15 @@ Specific files can be ignored (totally or for some rules only) using a
 `Read more in the complete documentation! <https://yamllint.readthedocs.io/>`_
 
 
-Contact Me
-^^^^^^^^^^
 🚀 I'm are always open to your feedback.  Please contact as bellow information:
 
+Contact Me
+^^^^^^^^^^
 Name: `Nho Luong`
-
 Skype: `luongutnho_skype`
-
 Github: `https://github.com/nholuongut`
-
 Linkedin: `https://www.linkedin.com/in/nholuong/`
-
 Email Address: `luongutnho@hotmail.com`
-
 PayPal.me: `https://www.paypal.com/paypalme/nholuongut`
 
 
